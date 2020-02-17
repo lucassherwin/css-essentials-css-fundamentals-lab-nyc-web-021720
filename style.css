@@ -35,7 +35,9 @@ nav a{
   text-align: center;
 }
 
-#details div{
+#details {
   display: block;
+}
+#details div{
   float: left;
 }
