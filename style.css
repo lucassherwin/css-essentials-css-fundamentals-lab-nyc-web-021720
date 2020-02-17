@@ -21,7 +21,6 @@ img {
   width: 50%;
 }
 
-header {
+header > a {
   text-align: center;
-  background-color: grey;
 }
