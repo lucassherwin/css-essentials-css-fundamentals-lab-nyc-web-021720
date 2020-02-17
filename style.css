@@ -34,3 +34,7 @@ nav a{
   margin: auto;
   text-align: center;
 }
+
+#details div{
+  float: left;
+}
